@@ -9,7 +9,7 @@ System.out.print("Enter amount: ");
         sc.nextLine();   
         System.out.print("Enter description: ");
         String desc = sc.nextLine();
- 
+   
       
         categoryOf[count] = cat - 1;
         amount[count] = amt;
