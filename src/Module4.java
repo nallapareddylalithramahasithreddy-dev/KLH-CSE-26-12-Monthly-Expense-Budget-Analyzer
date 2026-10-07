@@ -13,7 +13,7 @@ for (int i = 0; i < categories.length; i++) {
                 status = "OVER BUDGET";
             } else if (percent >= 80) {
                 status = "Near limit";
-            } else {
+            } else {  
                 status = "Good";
             }
  
