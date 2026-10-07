@@ -14,7 +14,7 @@ for (int i = 0; i < categories.length; i++) {
             } else if (percent >= 80) {
                 status = "Near limit";
             } else {  
-                status = "Good";
+                status = "Good";  
             }
  
             System.out.printf("%-10s %10.2f %10.2f %10.2f %7.1f%%  %s%n",
