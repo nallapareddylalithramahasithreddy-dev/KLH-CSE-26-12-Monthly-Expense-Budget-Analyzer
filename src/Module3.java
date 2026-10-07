@@ -17,7 +17,7 @@ System.out.print("Enter amount: ");
         spent[cat - 1] = spent[cat - 1] + amt;
         count++;
  
-        System.out.println("Expense added!");
+        System.out.println("Expense added!");   
  
         
         if (budget[cat - 1] > 0 && spent[cat - 1] > budget[cat - 1]) {
