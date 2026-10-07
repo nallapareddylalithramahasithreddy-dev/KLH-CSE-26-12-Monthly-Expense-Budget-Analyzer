@@ -4,7 +4,7 @@ break;
                     break;
                 case 4:
                     showReport(month);  
-                    break;
+                    break;  
                 case 5:
                     System.out.println("Thank you! Bye.");
                     break;
