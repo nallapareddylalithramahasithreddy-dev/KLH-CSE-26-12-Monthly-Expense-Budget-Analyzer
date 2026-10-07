@@ -1,7 +1,7 @@
 for (int i = 0; i < categories.length; i++) {
             double remaining = budget[i] - spent[i];
             double percent = 0;
-            String status;
+            String status;   
  
             if (budget[i] > 0) {
                 percent = (spent[i] / budget[i]) * 100;
