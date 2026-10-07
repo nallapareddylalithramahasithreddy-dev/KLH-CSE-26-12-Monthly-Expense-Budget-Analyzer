@@ -3,7 +3,7 @@ break;
                     viewExpenses();
                     break;
                 case 4:
-                    showReport(month);
+                    showReport(month);  
                     break;
                 case 5:
                     System.out.println("Thank you! Bye.");
