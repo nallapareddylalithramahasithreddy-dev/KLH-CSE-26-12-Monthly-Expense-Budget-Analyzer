@@ -12,7 +12,7 @@ public class SimpleExpenseAnalyser {
     static double[] amount = new double[100];
     static int count = 0;
  
-    static double income = 0;
+    static double income = 0; 
     static Scanner sc = new Scanner(System.in);
  
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ public class SimpleExpenseAnalyser {
         String month = sc.nextLine();
  
         System.out.print("Enter your monthly income: ");
-        income = sc.nextDouble();
+        income = sc.nextDouble();  
  
         int choice;
         do {
