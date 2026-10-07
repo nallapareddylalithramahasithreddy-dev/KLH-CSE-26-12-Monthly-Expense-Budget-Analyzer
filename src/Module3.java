@@ -3,7 +3,7 @@ System.out.print("Enter amount: ");
  
         if (amt <= 0) {
             System.out.println("Amount must be greater than 0!");
-            return;
+            return;  
         }
  
         sc.nextLine();   
