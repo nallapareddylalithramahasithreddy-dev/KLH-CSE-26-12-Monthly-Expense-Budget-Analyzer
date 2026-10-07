@@ -15,7 +15,7 @@ break;
     }
  
     
-    static void showCategories() {
+    static void showCategories() {  
         for (int i = 0; i < categories.length; i++) {
             System.out.println((i + 1) + ". " + categories[i]);
         }
