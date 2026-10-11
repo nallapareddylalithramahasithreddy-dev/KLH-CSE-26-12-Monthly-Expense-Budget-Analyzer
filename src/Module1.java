@@ -7,7 +7,7 @@ public class SimpleExpenseAnalyser {
     static double[] spent = new double[6];
 
         
-    static String[] description = new String[100];
+    static String[] description = new String[100]; 
     static int[] categoryOf = new int[100];
     static double[] amount = new double[100];
     static int count = 0;
