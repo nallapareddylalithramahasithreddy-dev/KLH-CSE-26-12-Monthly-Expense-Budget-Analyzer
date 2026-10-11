@@ -3,7 +3,7 @@ Monthly Expense &amp; Budget Analyzer
 TEAM MEMBERS NAMES:
 N.LALITH RAMA HASITH REDDY-2620030548
 A.SAI GANESH-2620030479
-
+Supervisor - Sriram Sir
 
 The Monthly Expense and Budget Analyzer is a financial management application designed to help individuals and households monitor, evaluate, and optimize their spending habits. The system records income and expenses across multiple categories such as food, rent, utilities, transportation, entertainment, and savings. By analyzing monthly financial data, it provides insights into spending patterns, highlights areas of overspending, and suggests strategies for better budget allocation.
 
